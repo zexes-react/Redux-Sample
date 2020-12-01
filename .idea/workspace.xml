@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="16d0b9b9-ebb7-4864-ae2e-6ec5fed884b0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/Counter/Counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Counter/Counter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/reducer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +47,7 @@
       <workItem from="1606600912193" duration="14000" />
       <workItem from="1606600951342" duration="1363000" />
       <workItem from="1606602320633" duration="89000" />
-      <workItem from="1606602547313" duration="3967000" />
+      <workItem from="1606602547313" duration="5289000" />
     </task>
     <task id="LOCAL-00001" summary="React-basics. closes #1">
       <created>1606824725849</created>
@@ -62,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606825619629</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="refactored ---&gt;&gt;&gt; upgrade">
+      <created>1606826031948</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606826031948</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,17 +79,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="React-basics. closes #1" />
     <MESSAGE value="Connecting React to Redux. closes #2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Connecting React to Redux. closes #2" />
+    <MESSAGE value="refactored ---&gt;&gt;&gt; upgrade" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactored ---&gt;&gt;&gt; upgrade" />
   </component>
   <component name="WindowStateProjectService">
     <state x="410" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606601041434">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="410" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.30.1280.984@0.0.1920.1040" timestamp="1606601041434" />
-    <state x="486" y="33" key="CommitChangelistDialog2" timestamp="1606825619211">
+    <state x="486" y="33" key="CommitChangelistDialog2" timestamp="1606826031553">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="486" y="33" key="CommitChangelistDialog2/0.0.1920.1040/1920.30.1280.984@0.0.1920.1040" timestamp="1606825619211" />
+    <state x="486" y="33" key="CommitChangelistDialog2/0.0.1920.1040/1920.30.1280.984@0.0.1920.1040" timestamp="1606826031553" />
     <state x="792" y="393" key="Github.ShareDialog" timestamp="1606824661669">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -90,10 +99,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="706" y="147" key="Github.UntrackedFilesDialog/0.0.1920.1040/1920.30.1280.984@0.0.1920.1040" timestamp="1606824670289" />
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1606825620563">
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1606826032747">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.30.1280.984@0.0.1920.1040" timestamp="1606825620563" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.30.1280.984@0.0.1920.1040" timestamp="1606826032747" />
     <state x="677" y="414" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1606824591802">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
