@@ -28,7 +28,7 @@ const reducer = (state = initialState, action) => {
         case 'STORE_RESULT':
             return {
                 ...state,
-                results: state.results.concat({ id: new Date(),value: state.counter}) //items – Additional items to add to the end of array1
+                results: state.results.concat({ id: new Date(), value: state.counter}) //concat::::==>> items – Additional items to add to the end of array1
             }
     }
     return state;
