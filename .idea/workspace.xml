@@ -28,14 +28,15 @@
     <file path="$PROJECT_DIR$/.idea/workspace.xml">
       <ranges>
         <range start1="2" end1="2" start2="2" end2="20" changelist="082c8a07-1154-4363-baa5-07309970b025" />
-        <range start1="3" end1="4" start2="21" end2="23" changelist="16d0b9b9-ebb7-4864-ae2e-6ec5fed884b0" />
-        <range start1="24" end1="24" start2="43" end2="57" changelist="16d0b9b9-ebb7-4864-ae2e-6ec5fed884b0" />
-        <range start1="88" end1="89" start2="121" end2="129" changelist="16d0b9b9-ebb7-4864-ae2e-6ec5fed884b0" />
-        <range start1="111" end1="112" start2="151" end2="153" changelist="16d0b9b9-ebb7-4864-ae2e-6ec5fed884b0" />
-        <range start1="118" end1="119" start2="159" end2="160" changelist="16d0b9b9-ebb7-4864-ae2e-6ec5fed884b0" />
-        <range start1="121" end1="122" start2="162" end2="163" changelist="16d0b9b9-ebb7-4864-ae2e-6ec5fed884b0" />
-        <range start1="134" end1="135" start2="175" end2="176" changelist="16d0b9b9-ebb7-4864-ae2e-6ec5fed884b0" />
-        <range start1="137" end1="138" start2="178" end2="179" changelist="16d0b9b9-ebb7-4864-ae2e-6ec5fed884b0" />
+        <range start1="5" end1="6" start2="23" end2="23" changelist="16d0b9b9-ebb7-4864-ae2e-6ec5fed884b0" />
+        <range start1="30" end1="38" start2="47" end2="56" changelist="16d0b9b9-ebb7-4864-ae2e-6ec5fed884b0" />
+        <range start1="111" end1="112" start2="129" end2="144" changelist="16d0b9b9-ebb7-4864-ae2e-6ec5fed884b0" />
+        <range start1="135" end1="136" start2="167" end2="170" changelist="16d0b9b9-ebb7-4864-ae2e-6ec5fed884b0" />
+        <range start1="142" end1="143" start2="176" end2="177" changelist="16d0b9b9-ebb7-4864-ae2e-6ec5fed884b0" />
+        <range start1="145" end1="146" start2="179" end2="180" changelist="16d0b9b9-ebb7-4864-ae2e-6ec5fed884b0" />
+        <range start1="158" end1="159" start2="192" end2="193" changelist="16d0b9b9-ebb7-4864-ae2e-6ec5fed884b0" />
+        <range start1="161" end1="163" start2="195" end2="197" changelist="16d0b9b9-ebb7-4864-ae2e-6ec5fed884b0" />
+        <range start1="165" end1="166" start2="199" end2="200" changelist="16d0b9b9-ebb7-4864-ae2e-6ec5fed884b0" />
       </ranges>
     </file>
   </component>
@@ -109,7 +110,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606828006450</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Updating State Immutably. closes #6">
+      <created>1606837217398</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606837217398</updated>
+    </task>
+    <task id="LOCAL-00008" summary="refactored">
+      <created>1606837245785</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606837245785</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,17 +148,19 @@
     <MESSAGE value="Dispatching Actions from within the Component. closes #3" />
     <MESSAGE value="Passing and Retrieving Data with Action #4. closes" />
     <MESSAGE value="Passing and Retrieving Data with Action. closes #4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Passing and Retrieving Data with Action. closes #4" />
+    <MESSAGE value="Updating State Immutably. closes #6" />
+    <MESSAGE value="refactored" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactored" />
   </component>
   <component name="WindowStateProjectService">
     <state x="410" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606601041434">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="410" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.30.1280.984@0.0.1920.1040" timestamp="1606601041434" />
-    <state x="486" y="23" key="CommitChangelistDialog2" timestamp="1606828005845">
+    <state x="486" y="23" key="CommitChangelistDialog2" timestamp="1606837245407">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="486" y="23" key="CommitChangelistDialog2/0.0.1920.1040/1920.30.1280.984@0.0.1920.1040" timestamp="1606828005845" />
+    <state x="486" y="23" key="CommitChangelistDialog2/0.0.1920.1040/1920.30.1280.984@0.0.1920.1040" timestamp="1606837245407" />
     <state x="792" y="393" key="Github.ShareDialog" timestamp="1606824661669">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -156,13 +173,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="798" y="414" key="VCS.ChangelistChooser/0.0.1920.1040/1920.30.1280.984@0.0.1920.1040" timestamp="1606827944520" />
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1606828007315">
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1606837246706">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.30.1280.984@0.0.1920.1040" timestamp="1606828007315" />
-    <state x="677" y="414" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1606824591802">
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.30.1280.984@0.0.1920.1040" timestamp="1606837246706" />
+    <state x="677" y="414" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1606847501722">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="677" y="414" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1040/1920.30.1280.984@0.0.1920.1040" timestamp="1606824591802" />
+    <state x="677" y="414" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1040/1920.30.1280.984@0.0.1920.1040" timestamp="1606847501722" />
   </component>
 </project>
