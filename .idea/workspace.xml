@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16d0b9b9-ebb7-4864-ae2e-6ec5fed884b0" name="Default Changelist" comment="" />
+    <list default="true" id="16d0b9b9-ebb7-4864-ae2e-6ec5fed884b0" name="Default Changelist" comment="Passing and Retrieving Data with Action. closes #4">
+      <change beforePath="$PROJECT_DIR$/src/containers/Counter/Counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Counter/Counter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/reducer.js" afterDir="false" />
+    </list>
+    <list id="082c8a07-1154-4363-baa5-07309970b025" name="Passing and Retrieving Data with Action #4. closes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +72,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606827604069</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Dispatching Actions from within the Component. closes #3">
+      <created>1606827733868</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606827733868</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Passing and Retrieving Data with Action #4. closes">
+      <created>1606827923526</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606827923526</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,17 +107,19 @@
     <MESSAGE value="React-basics. closes #1" />
     <MESSAGE value="Connecting React to Redux. closes #2" />
     <MESSAGE value="Revert &quot;Dispatching Actions from within the Component. closes #3&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;Dispatching Actions from within the Component. closes #3&quot;" />
+    <MESSAGE value="Dispatching Actions from within the Component. closes #3" />
+    <MESSAGE value="Passing and Retrieving Data with Action #4. closes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Passing and Retrieving Data with Action #4. closes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="410" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606601041434">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="410" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.30.1280.984@0.0.1920.1040" timestamp="1606601041434" />
-    <state x="486" y="23" key="CommitChangelistDialog2" timestamp="1606827603700">
+    <state x="486" y="23" key="CommitChangelistDialog2" timestamp="1606827962445">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="486" y="23" key="CommitChangelistDialog2/0.0.1920.1040/1920.30.1280.984@0.0.1920.1040" timestamp="1606827603700" />
+    <state x="486" y="23" key="CommitChangelistDialog2/0.0.1920.1040/1920.30.1280.984@0.0.1920.1040" timestamp="1606827962445" />
     <state x="792" y="393" key="Github.ShareDialog" timestamp="1606824661669">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -106,10 +128,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="706" y="147" key="Github.UntrackedFilesDialog/0.0.1920.1040/1920.30.1280.984@0.0.1920.1040" timestamp="1606824670289" />
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1606827605011">
+    <state x="798" y="414" key="VCS.ChangelistChooser" timestamp="1606827944520">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.30.1280.984@0.0.1920.1040" timestamp="1606827605011" />
+    <state x="798" y="414" key="VCS.ChangelistChooser/0.0.1920.1040/1920.30.1280.984@0.0.1920.1040" timestamp="1606827944520" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1606827926224">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.30.1280.984@0.0.1920.1040" timestamp="1606827926224" />
     <state x="677" y="414" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1606824591802">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
