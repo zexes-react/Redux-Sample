@@ -1,14 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="16d0b9b9-ebb7-4864-ae2e-6ec5fed884b0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/store/action.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducers/counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducers/result.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/containers/Counter/Counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Counter/Counter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/reducer.js" beforeDir="false" />
     </list>
-    <list id="082c8a07-1154-4363-baa5-07309970b025" name="Passing and Retrieving Data with Action #4. closes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list id="082c8a07-1154-4363-baa5-07309970b025" name="Passing and Retrieving Data with Action #4. closes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,22 +44,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/.idea/workspace.xml">
-      <ranges>
-        <range start1="2" end1="2" start2="2" end2="20" changelist="082c8a07-1154-4363-baa5-07309970b025" />
-        <range start1="5" end1="6" start2="23" end2="23" changelist="16d0b9b9-ebb7-4864-ae2e-6ec5fed884b0" />
-        <range start1="30" end1="38" start2="47" end2="56" changelist="16d0b9b9-ebb7-4864-ae2e-6ec5fed884b0" />
-        <range start1="111" end1="112" start2="129" end2="144" changelist="16d0b9b9-ebb7-4864-ae2e-6ec5fed884b0" />
-        <range start1="135" end1="136" start2="167" end2="170" changelist="16d0b9b9-ebb7-4864-ae2e-6ec5fed884b0" />
-        <range start1="142" end1="143" start2="176" end2="177" changelist="16d0b9b9-ebb7-4864-ae2e-6ec5fed884b0" />
-        <range start1="145" end1="146" start2="179" end2="180" changelist="16d0b9b9-ebb7-4864-ae2e-6ec5fed884b0" />
-        <range start1="158" end1="159" start2="192" end2="193" changelist="16d0b9b9-ebb7-4864-ae2e-6ec5fed884b0" />
-        <range start1="161" end1="163" start2="195" end2="197" changelist="16d0b9b9-ebb7-4864-ae2e-6ec5fed884b0" />
-        <range start1="165" end1="166" start2="199" end2="200" changelist="16d0b9b9-ebb7-4864-ae2e-6ec5fed884b0" />
-      </ranges>
-    </file>
-  </component>
   <component name="ProjectId" id="1kw9i5hWnKEYrkJA3RSf9OEYYwA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -52,6 +56,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zikoz\Desktop\REACT\redux--01-start\src\store\reducers" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -67,6 +76,7 @@
       <workItem from="1606600951342" duration="1363000" />
       <workItem from="1606602320633" duration="89000" />
       <workItem from="1606602547313" duration="3967000" />
+      <workItem from="1607709134358" duration="1309000" />
     </task>
     <task id="LOCAL-00001" summary="React-basics. closes #1">
       <created>1606824725849</created>
@@ -124,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606837245785</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Updating State Immutably. closes #6">
+      <created>1606847710786</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1606847710786</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +157,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="React-basics. closes #1" />
@@ -148,19 +166,23 @@
     <MESSAGE value="Dispatching Actions from within the Component. closes #3" />
     <MESSAGE value="Passing and Retrieving Data with Action #4. closes" />
     <MESSAGE value="Passing and Retrieving Data with Action. closes #4" />
-    <MESSAGE value="Updating State Immutably. closes #6" />
     <MESSAGE value="refactored" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactored" />
+    <MESSAGE value="Updating State Immutably. closes #6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating State Immutably. closes #6" />
   </component>
   <component name="WindowStateProjectService">
     <state x="410" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606601041434">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="410" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.30.1280.984@0.0.1920.1040" timestamp="1606601041434" />
-    <state x="486" y="23" key="CommitChangelistDialog2" timestamp="1606837245407">
+    <state x="624" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607709974437">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="486" y="23" key="CommitChangelistDialog2/0.0.1920.1040/1920.30.1280.984@0.0.1920.1040" timestamp="1606837245407" />
+    <state x="624" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.30.1280.984@0.0.1920.1040" timestamp="1607709974437" />
+    <state x="486" y="23" key="CommitChangelistDialog2" timestamp="1606847710186">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="486" y="23" key="CommitChangelistDialog2/0.0.1920.1040/1920.30.1280.984@0.0.1920.1040" timestamp="1606847710186" />
     <state x="792" y="393" key="Github.ShareDialog" timestamp="1606824661669">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -173,13 +195,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="798" y="414" key="VCS.ChangelistChooser/0.0.1920.1040/1920.30.1280.984@0.0.1920.1040" timestamp="1606827944520" />
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1606837246706">
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1606847711827">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.30.1280.984@0.0.1920.1040" timestamp="1606837246706" />
-    <state x="677" y="414" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1606847501722">
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.30.1280.984@0.0.1920.1040" timestamp="1606847711827" />
+    <state x="677" y="414" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1607709447483">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="677" y="414" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1040/1920.30.1280.984@0.0.1920.1040" timestamp="1606847501722" />
+    <state x="677" y="414" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1040/1920.30.1280.984@0.0.1920.1040" timestamp="1607709447483" />
   </component>
 </project>
